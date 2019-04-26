@@ -1,0 +1,30 @@
+2019-04-25 17:50:10.899 [background-preinit] DEBUG org.jboss.logging -
+				Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2019-04-25 17:51:08.794 [background-preinit] DEBUG org.jboss.logging -
+				Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property
+2019-04-25 17:52:02.797 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol -
+				Processing socket [org.apache.tomcat.util.net.NioChannel@1adb659:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8001 remote=/0:0:0:0:0:0:0:1:55313]] with status [OPEN_READ]
+2019-04-25 17:52:02.798 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol -
+				Found processor [null] for socket [org.apache.tomcat.util.net.NioChannel@1adb659:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8001 remote=/0:0:0:0:0:0:0:1:55313]]
+2019-04-25 17:52:02.799 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol -
+				Popped processor [null] from cache
+2019-04-25 17:52:02.835 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol -
+				Register Tomcat:type=RequestProcessor,worker="http-nio-8001",name=HttpRequest1
+2019-04-25 17:52:02.837 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11InputBuffer -
+				Received [GET /hello HTTP/1.1
+Host: localhost:8001
+Connection: keep-alive
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: zh-CN,zh;q=0.9
+
+]
+2019-04-25 17:52:03.004 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11Processor -
+				Socket: [org.apache.tomcat.util.net.NioEndpoint$NioSocketWrapper@bf42ee:org.apache.tomcat.util.net.NioChannel@1adb659:java.nio.channels.SocketChannel[connected local=/0:0:0:0:0:0:0:1:8001 remote=/0:0:0:0:0:0:0:1:55313]], Status in: [OPEN_READ], State out: [OPEN]
+2019-04-25 17:52:03.004 [http-nio-8001-exec-1] DEBUG org.apache.coyote.http11.Http11NioProtocol -
+				Pushed Processor [org.apache.coyote.http11.Http11Processor@810871]
+2019-04-25 17:52:56.078 [background-preinit] DEBUG org.jboss.logging -
+				Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property

@@ -1,0 +1,38 @@
+2019-04-25 17:50:11.307 [main] INFO  cn.com.tass.chsmc.codegApplication -
+				No active profile set, falling back to default profiles: default
+2019-04-25 17:50:13.340 [main] INFO  com.alibaba.druid.pool.DruidDataSource -
+				{dataSource-1} inited
+2019-04-25 17:50:17.284 [main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Initializing ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:50:17.301 [main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Starting ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:50:17.313 [main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Pausing ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:50:17.318 [main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Stopping ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:50:17.318 [main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Destroying ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:50:17.331 [main] INFO  com.alibaba.druid.pool.DruidDataSource -
+				{dataSource-1} closed
+2019-04-25 17:51:09.230 wwwww[main] INFO  cn.com.tass.chsmc.codegApplication -
+				No active profile set, falling back to default profiles: default
+2019-04-25 17:51:11.296 wwwww[main] INFO  com.alibaba.druid.pool.DruidDataSource -
+				{dataSource-1} inited
+2019-04-25 17:51:15.491 wwwww[main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Initializing ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:51:15.504 wwwww[main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Starting ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:51:15.535 wwwww[main] INFO  cn.com.tass.chsmc.codegApplication -
+				Started codegApplication in 7.433 seconds (JVM running for 7.998)
+2019-04-25 17:52:02.908 wwwww[http-nio-8001-exec-1] INFO  cn.com.tass.chsmc.interceptor.AccessTokenVerifyInterceptor -
+				AccessToken executing ...
+2019-04-25 17:52:56.481 wwwww[main] INFO  cn.com.tass.chsmc.codegApplication -
+				No active profile set, falling back to default profiles: default
+2019-04-25 17:52:58.537 wwwww[main] INFO  com.alibaba.druid.pool.DruidDataSource -
+				{dataSource-1} inited
+2019-04-25 17:53:02.641 wwwww[main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Initializing ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:53:02.660 wwwww[main] INFO  org.apache.coyote.http11.Http11NioProtocol -
+				Starting ProtocolHandler ["http-nio-8001"]
+2019-04-25 17:53:02.692 wwwww[main] INFO  cn.com.tass.chsmc.codegApplication -
+				Started codegApplication in 7.333 seconds (JVM running for 7.891)
